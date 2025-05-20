@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @skibidiriizz
+### 👋 Hi, I’m @Ashiq Irfan
 
 - 👀 I’m interested in LLMs (Large Language Models), AI agents, and building end-to-end intelligent systems.
 - 🌱 I’m currently learning about LLM architectures, agent frameworks, and how to deploy fully functional AI applications.
